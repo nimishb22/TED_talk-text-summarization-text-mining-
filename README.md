@@ -12,3 +12,5 @@ Download the talks as text files, extract the text content, perform preprocessin
 Visually display the most frequent words
 Perform content analysis to rank (hierarchical clustering) these talks for similarity
 Summarize the text of 10 TED talks![image](https://github.com/nimishb22/TED_talk-text-summarization-text-mining-/assets/20534138/4c775488-9631-4442-a8ba-256e7f64591d)
+
+Note: Choose the input data accordingly and make changes to the code.
